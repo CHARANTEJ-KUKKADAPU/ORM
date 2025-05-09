@@ -18,8 +18,13 @@ Enter the code for admin.py and models.py
 ### STEP 4:
 Execute Django admin and create details for 10 books
 
+## ENTITY RELATIONSHIP DIAGRAM:
+
+![er web](https://github.com/user-attachments/assets/242b6c77-5f6a-44f0-81b5-d2611b6dd41b)
+
+
 ## PROGRAM
-```
+```py
 from django.contrib import admin
 
 from django.contrib import admin
